@@ -1,4 +1,3 @@
-# json word list
 import json
 
 #loads a dictionary of English words
