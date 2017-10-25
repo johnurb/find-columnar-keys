@@ -1,5 +1,5 @@
 # find-columnar-keys
-Find possible keys for columnar transposition ciphers given the keyword letter value-order
+Find possible keys for columnar transposition ciphers given the keyword letter value-order.
 
 When decrypting a columnar transposition cipher one will ultimately obtain the original plaintext, but with a key that is numerical (that is, the key will be a sequence of numbers referring to the alphabetical indexes of the original letters of the keyword. ie: DABECF -> 4-1-2-5-3-6). It is sometimes desirable to at least try and ascertain the original keyword that was used for encipherment.
 
